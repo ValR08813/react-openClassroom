@@ -7,6 +7,11 @@
 	justify-content: flex-start;
 	width: 300px;
 }
+/* [id = "container"] {
+	background-color: red;
+	width: 50px;
+	height: 50px;
+} */
 
 .lmj-cart-add-button {
 	margin-left: 32px;

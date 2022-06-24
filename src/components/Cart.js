@@ -13,6 +13,7 @@ function Cart({ cart, updateCart }) {
 
 	return isOpen ? (
 		<div className='lmj-cart'>
+			<p id="container"></p>
 			<button
 				className='lmj-cart-toggle-button'
 				onClick={() => setIsOpen(false)}
